@@ -1,11 +1,13 @@
 # SnakeBite-The-Hunger-Hunt
-A classic Snake 🐍🍉 Game built using Linked List and OOPs fundamentals in CPP.
+**A classic Snake 🐍🍉 Game built using Linked List and OOPs fundamentals in CPP.**
 
 -> Snake body is made using struct named 'Node'.
+
 -> The position of food is decided by rand() function which randomly generates a number and that number will become position of food which will get spawned next time. 
+ 
 -> There is class named 'Snake' which contains a 'move' function of bool return type 
-    * so if snake gets space to move or gets food, move returns TRUE & a new node will be added otherwise FALSE
-    * simultaneously a destructor will deallocate the last node from the memory (tail of snake) which creates a moving effect for the snake as it moves forward a new node will be added and a node will         get deleted at the tail of Linked List.
+🌟 So, if snake gets space to move or gets food, move returns TRUE & a new node will be added otherwise FALSE
+🌟 simultaneously a destructor will deallocate the last node from the memory (tail of snake) which creates a moving effect for the snake as it moves forward a new node will be added and a node will         get deleted at the tail of Linked List.
 
 -> Windows library will be used for console and deciding coordinates and setting position of the food 🍉🍉 or snake 🐍 head (LL head).
 
