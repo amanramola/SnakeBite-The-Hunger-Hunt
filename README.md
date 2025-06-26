@@ -11,7 +11,7 @@
 
 🌟 simultaneously a destructor will deallocate the last node from the memory (tail of snake) which creates a moving effect for the snake as it moves forward a new node will be added and a node will         get deleted at the tail of Linked List.
 
--> Windows library will be used for console and deciding coordinates and setting position of the food 🍉🍉 or snake 🐍 head (LL head).
+-> Windows library is used for console and deciding coordinates and setting position of the food 🍉🍉 or snake 🐍 head (LL head).
 
 **Preview**⤵️
 
